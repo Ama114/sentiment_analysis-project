@@ -6,10 +6,10 @@ Sentiment analysis uses natural language processing and machine learning techniq
 # Steps
     1  Download Dataset
     2  Data Preprocessing
-         ## Text Preprocessing
-         ## Build Vocabulary
-         ## Vectorization
-         ## Handle Imbalanced Dataset
+         # Text Preprocessing
+         # Build Vocabulary
+         # Vectorization
+         # Handle Imbalanced Dataset
     3 Model Building
         # Logistic Regression
         # Naive Bayes
@@ -23,4 +23,8 @@ Sentiment analysis uses natural language processing and machine learning techniq
         # F1 Score
     5 Build Prediction Pipeline
     6 Build Web Application
-7 Deploy to Azure
+    7 Deploy to Azure
+
+ 
+
+
