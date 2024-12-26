@@ -6,7 +6,7 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s",
 
     handlers=[
-        logging.FileHandler(filename='logs.log', mode='w'),
-        logging.StreamHandler(sys.stdout)
+        logging.FileHandler(filename='logs.log', mode='w'),   # save the log messages as file
+        logging.StreamHandler(sys.stdout)                     # display the messages in cmd 
     ]
 )
