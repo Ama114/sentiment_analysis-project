@@ -17,10 +17,10 @@ Sentiment analysis uses natural language processing and machine learning techniq
     # Random Forest
     # Vector Machine
 4 Model Evaluation
-   # Accuracy
-   # Precision
-   # Recall
-   # F1 Score
+    # Accuracy
+    # Precision
+    # Recall
+    # F1 Score
 5 Build Prediction Pipeline
 6 Build Web Application
 7 Deploy to Azure
