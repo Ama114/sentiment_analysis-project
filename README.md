@@ -27,8 +27,11 @@ Sentiment analysis uses natural language processing and machine learning techniq
 
  ![image](https://github.com/user-attachments/assets/21a6f982-4946-4035-af2a-e83061e6be44)
 
+ 
+
 
     
 
- 
+ [demo video bi grop work.zip](https://github.com/user-attachments/files/18632514/demo.video.bi.grop.work.zip)
+
 
