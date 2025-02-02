@@ -22,8 +22,11 @@ Sentiment analysis uses natural language processing and machine learning techniq
         # Precision
         # Recall
         # F1 Score
-####5 Build Prediction Pipeline
+#### 5 Build Prediction Pipeline
 #### 6 Build Web Application
+
+![image](https://github.com/user-attachments/assets/616a093b-250c-4dd0-96bc-2402a5d92920)
+
     
 
  
