@@ -25,7 +25,8 @@ Sentiment analysis uses natural language processing and machine learning techniq
 #### 5 Build Prediction Pipeline
 #### 6 Build Web Application
 
-![image](https://github.com/user-attachments/assets/616a093b-250c-4dd0-96bc-2402a5d92920)
+ ![image](https://github.com/user-attachments/assets/21a6f982-4946-4035-af2a-e83061e6be44)
+
 
     
 
