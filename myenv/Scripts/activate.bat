@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set "VIRTUAL_ENV=C:\Users\ASUS\OneDrive\Desktop\sentiment_analysis-project\myenv"
+set "VIRTUAL_ENV=C:\Users\ASUS\OneDrive\Desktop\maching-learning\sentiment_analysis-project\myenv"
 
 if not defined PROMPT set PROMPT=$P$G
 
