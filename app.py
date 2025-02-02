@@ -35,7 +35,7 @@ def my_post():
     prediction = get_prediction(vectorized_txt)
     logging.info(f'Prediction : {prediction}')
 
-    if prediction == 'negative':
+    if prediction == 'negative': 
         global negative
         negative += 1
     else:
