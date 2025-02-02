@@ -48,6 +48,6 @@ def vectorizer(ds):
 def get_prediction(vectorized_text):
     prediction = model.predict(vectorized_text)
     if prediction == 1:
-        return 'negative'
+        return 'Negative'
     else:
-        return 'positive'
+        return 'Positive'
